@@ -301,7 +301,7 @@ def bot(op):
                 group = random.choice(KAC).getGroup(op.param1)
                 cb = Message()
                 cb.to = op.param1
-                cb.text = random.choice(KAC).getContact(op.param2).displayName + " [ New Member ]\n\nWelcome + random.choice(KAC).getContact(op.param2).displayName + " To [" + group.name + "]\nDO NOT NAKAL OK!!" + "\n\nCreator => " + group.creator.displayName
+                cb.text = random.choice(KAC).getContact(op.param2).displayName + " [New Member]\n\nWelcome + random.choice(KAC).getContact(op.param2).displayName + " To [" + group.name + "]\nDO NOT NAKAL OK!!" + "\n\nCreator => " + group.creator.displayName
                 random.choice(KAC).sendMessage(cb)
         if op.type == 15:
             if op.param2 in Bots:
