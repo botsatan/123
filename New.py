@@ -111,9 +111,9 @@ helpMessage ="""
  Mayhem
 
 =========================
-BOT : TOBY
-SUPPORT BY : CYBER BOT CRIME
-Hanya Admin Yang Bisa Menggunakan Bot
+BOT : EXTREMISTS
+SUPPORT BY : SATAN
+ONLY ADMIN TO USE BOT
 """
 KAC=[cl,ki]
 mid = cl.getProfile().mid
