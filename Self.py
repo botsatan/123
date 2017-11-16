@@ -127,8 +127,8 @@ mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
 
 Bots=[mid,Amid]
-admin=["u541bbaba15d68f3a652106a0de5a3e94","u024d7e5e78a037ddbc245e2f49870843","uc455a5966d655d88731ec5d4a29ddc34"]
-creator=["u541bbaba15d68f3a652106a0de5a3e94","u024d7e5e78a037ddbc245e2f49870843","uc455a5966d655d88731ec5d4a29ddc34"]
+admin=["u541bbaba15d68f3a652106a0de5a3e94","u024d7e5e78a037ddbc245e2f49870843","uc455a5966d655d88731ec5d4a29ddc34","u8d68353ee97847b503904a458c2c2a97"]
+creator=["u541bbaba15d68f3a652106a0de5a3e94","u024d7e5e78a037ddbc245e2f49870843","uc455a5966d655d88731ec5d4a29ddc34","u8d68353ee97847b503904a458c2c2a97"]
 wait = {
     'contact':False,
     'autoJoin':True,
