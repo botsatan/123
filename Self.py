@@ -1912,9 +1912,9 @@ def bot(op):
                                 print rom
                                 chiya += rom[1] + "\n"
 
-                        cl.sendText(msg.to, "== Bakekok Sider == %s\nthat's it\n\nPeople who have ignored reads\n%skampret lo sider. \n\nReading point creation date time:\n[%s]"  % (wait2['readMember'][msg.to],chiya,setTime[msg.to]))
+                        cl.sendText(msg.to, "People who readed %s\nthat's it\n\nPeople who have ignored reads\n%sIt is abnormal ♪\n\nReading point creation date n time:\n[%s]"  % (wait2['readMember'][msg.to],chiya,setTime[msg.to]))
                     else:
-                        cl.sendText(msg.to, "An already read point has not been set.\n Setlastpoint to create Read Point")
+                        cl.sendText(msg.to, "An already read point has not been set.\n「Setlastpoint」you can send ♪ read point will be created ♪")
 #-----------------------------------------------
             elif msg.text in ["Gcreator:inv"]:
 	           if msg.from_ in admin:
