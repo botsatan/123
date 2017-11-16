@@ -1952,11 +1952,11 @@ def bot(op):
 					ki.sendText(msg.to,(bctxt))
             elif msg.text in ["Creator"]:
 					msg.contentType = 13
-					msg.contentMetadata = {'mid': "ua7fb5762d5066629323d113e1266e8ca"}
+					msg.contentMetadata = {'mid': "u541bbaba15d68f3a652106a0de5a3e94"}
 					cl.sendText(msg.to,"MyCreator")
 					ki.sendMessage(msg)
 					msg.contentType = 13
-					msg.contentMetadata = {'mid': "uc8e2c2b906e2322592c6d8f91a0957f7"}
+					msg.contentMetadata = {'mid': "u024d7e5e78a037ddbc245e2f49870843"}
 					cl.sendText(msg.to,"MyCreator")
 					ki.sendMessage(msg)
 #-----------------------------------------------
